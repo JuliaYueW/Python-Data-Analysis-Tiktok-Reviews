@@ -1,1 +1,2 @@
 # Python-Tiktok-Review-Analysis
+TikTok is one of the most popular social media apps today. It is famous for its short videos. TikTok will have 834.3 million monthly users worldwide in 2023, according to forecast from Insider Intelligence. It is now the third-largest of the Big Five worldwide social networks (Facebook, Instagram, TikTok, Snapchat, and Twitter). People might have mixed feelings towards this app. This analysis uses data from Google Play Store to focuses on TikTok reviews and find out what people feel about the app.
